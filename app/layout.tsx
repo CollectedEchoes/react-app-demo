@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  title: "orion squared",
   robots: {
     index: false,
     follow: false,
